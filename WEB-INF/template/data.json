@@ -1,0 +1,10 @@
+{"data":
+	[
+          {"id":1200,"name":"Merchant_0","createdTime":1483196919,"createdBy":1,"modifiedTime":0,"modifiedBy":0,"flag":1,"addr":null,"tel":null,"province":0,"city":0,"county":0,"licenseNo":null,"companyNo":"m1200"},
+          {"id":1201,"name":"Merchant_1","createdTime":1483196919,"createdBy":1,"modifiedTime":0,"modifiedBy":0,"flag":1,"addr":null,"tel":null,"province":0,"city":0,"county":0,"licenseNo":null,"companyNo":"m1201"},
+          {"id":1202,"name":"Merchant_2","createdTime":1483196919,"createdBy":1,"modifiedTime":0,"modifiedBy":0,"flag":1,"addr":null,"tel":null,"province":0,"city":0,"county":0,"licenseNo":null,"companyNo":"m1202"},
+          {"id":1203,"name":"Merchant_3","createdTime":1483196919,"createdBy":1,"modifiedTime":0,"modifiedBy":0,"flag":1,"addr":null,"tel":null,"province":0,"city":0,"county":0,"licenseNo":null,"companyNo":"m1203"},
+          {"id":1204,"name":"Merchant_4","createdTime":1483196919,"createdBy":1,"modifiedTime":0,"modifiedBy":0,"flag":1,"addr":null,"tel":null,"province":0,"city":0,"county":0,"licenseNo":null,"companyNo":"m1204"},
+          {"id":1210,"name":"mtest","createdTime":1484286522,"createdBy":1090,"modifiedTime":1484286522,"modifiedBy":0,"flag":1,"addr":"北京","tel":"1112","province":0,"city":0,"county":0,"licenseNo":null,"companyNo":"m1210"}
+    ]
+}

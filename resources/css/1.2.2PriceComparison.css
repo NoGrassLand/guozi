@@ -1,0 +1,19 @@
+.content-wrapper{background-color: #FFFFFF;margin-left: 230px;}
+.box{border-top: none;}
+.row{margin-top: 20px;}
+.containerCentent1{margin-left: 100px;}
+.selectHeight{height: 30px;}
+.SupplierContent,.ManufactureCentent{width: 150px;height: 100px;border: 1px solid #000000;}
+
+td.details-control {
+    background: url('../img/details_open.png') no-repeat center center;
+    /*background: url('../resources/details_open.png') no-repeat center center;*/
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('../img/details_close.png') no-repeat center center;
+}
+.rowTop{margin-top: -40px;}
+.taxStype,.employeesHeight{margin-top: 7px;}
+.textHeight{height: 30px;}
+
